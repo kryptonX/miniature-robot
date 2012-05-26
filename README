@@ -1,0 +1,18 @@
+[PUBLIC ALPHA 1]
+
+BrainfuckXT is an extension to the Brainfuck programming language.
+It keeps all of the original features and adds new ones.
+BrainfuckXT is a compiled programming language targeting the .NET Framework by Microsoft (un-officially).
+BrainfuckXT code is converted to C# code and is then compiled with KCSC.
+Compiled executables can be run on all Windows systems with the .NET Framework installed.
+
+You can read about the language at: http://esolangs.org/wiki/BrainfuckXT
+
+This language's new features make it perfect for small applications and included applications.
+
+Windows only. Requires .NET Framework v4.0+.
+
+This program depends (and must be distributed with) on:
+	- http://github.com/kryptonx/kcsc
+	- http://github.com/kryptonx/ADLOCK
+	- http://kryptonx.webs.com/mirror/index.html
