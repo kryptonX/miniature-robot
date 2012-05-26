@@ -21,10 +21,10 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
 /*
           - kcsc.exe
           - adlock.exe
-		  - bfxt.exe
+	  - bfxt.exe
 */
 
-/** 
+/* 
     BF.net is a compiler for BrainfuckXT (http://esolangs.org/wiki/BrainfuckXT) targeting:
           - the .NET framework
           - Microsoft Windows
