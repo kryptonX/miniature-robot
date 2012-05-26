@@ -52,6 +52,7 @@ int main(int argc, char *argv[])
 {
     if (argc < 2)
     {
+       printf("Miniature-Robot Brainfuck/BrainfuckXT Compiler.\t[A : 1.0.0.0]\nCopyright (C) 2012.\n\n");
        printf("error: no input file\n");          
     }
     else if (argc == 2)           // single file
